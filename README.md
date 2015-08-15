@@ -42,3 +42,20 @@ Użyj przycisk w taki sposób żeby naciśnięcie przycisku powodowało miganie 
 Zmodyfikuj program żeby dioda LED wyświetlała słowo alfabetem Morsa po naciśnięciu przycisku.
 
 [Wideo](https://youtu.be/p-VDETMK13c)
+
+
+### Misja 1.8*
+
+W układzie migającej diody LED zaprogramuj ją tak żeby po 10 zapaleniach dioda LED zgasła i już się nie zapaliła. W tym celu użyj instrukcji if( )
+
+
+### Misja 1.9*
+
+W układzie migającej diody LED zaprogramuj ją tak żeby dioda po 10 zapaleniach gasła na 3 sekundy po czym znów migała 10 razy, i tak w kółko. Wykorzystaj tutaj pętle for( lub pętle while(1) wraz z instrukcją if(
+
+
+### Misja 1.d***
+
+Napisz zamek szyfrowy. Wykorzystaj schemat podłączeń z układu 1.7. Trzy-cyfrowe hasło jest podawane w kodzie jedynkowym lub Morsa za pomocą przycisku. Dioda LED określa stan zamku: dioda nie świeci – zamek zamknięty, dioda miga – zamek otwarty, dioda świeci – zamek odczytuje kod z przycisku. Jeśli kod zostanie podany poprawnie zamek się otwiera, w innych przypadkach zamek pozostaje zamknięty.
+
+[Wideo](https://youtu.be/-ZObxOV5o7c)
